@@ -33,3 +33,4 @@ C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.C
 C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.pdb
 C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb
 C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

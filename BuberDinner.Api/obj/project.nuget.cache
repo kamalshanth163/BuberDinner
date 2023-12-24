@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dctJIDyLiXCdVCJv+HzoIcuQi7xFYYnu2ZJ8mWYZnclKSkMr6ScWtEjrXApUL6xBKLdhDggAfqAIkOZj55DfSQ==",
+  "dgSpecHash": "IqJvDA7dJf2dVzhGLB8OflRz3URflheewT91vCyh3k4YIUYbvg1GEFLJq1MBXE6djlhOm/OyvwXyQXEnzydVnQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Desktop\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
