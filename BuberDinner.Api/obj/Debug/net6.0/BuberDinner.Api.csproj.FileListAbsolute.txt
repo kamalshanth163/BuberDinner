@@ -34,3 +34,13 @@ C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.A
 C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb
 C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
 C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\DELL\Desktop\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
